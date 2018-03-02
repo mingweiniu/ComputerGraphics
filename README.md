@@ -1,9 +1,10 @@
 # ComputerGraphics  
   
 ## interactive ray tracing  
+![Alt text](https://github.com/mingweiniu/ComputerGraphics/blob/master/results/interactive%20ray%20tracing.png)  
 程式碼：(不公開)  
 工具: CMake for C++, GLSL/ Boost, glew, glfw, glm, OpenCV, Tinyobjloader  
-簡述：碩論為改良一篇real-time ray tracing的演算法  
+簡述：此圖為paper的執行結果截圖，本人碩論為加速此篇real-time ray tracing的演算法  
   
 ## linear cosine transform  
 ![Alt text](https://github.com/mingweiniu/ComputerGraphics/blob/master/results/LTC.png)  
