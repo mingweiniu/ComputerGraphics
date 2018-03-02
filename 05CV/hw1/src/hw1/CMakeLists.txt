@@ -1,0 +1,2 @@
+
+file(GLOB_RECURSE My_LIB_SOURCES "*.cpp")

@@ -1,0 +1,23 @@
+
+set(TARGET GLFW)
+
+find_path(${TARGET}_DIR NAMES include/GLFW/glfw3.h HINTS
+	"$ENV{${TARGET}_DIR}"
+	"$ENV{${TARGET}_ROOT}"
+)
+
+find_path(GLFW_INCLUDE_DIR NAMES GLFW/glfw3.h HINTS ${${TARGET}_DIR}/include)
+set(GLFW_INCLUDE_DIRS ${GLFW_INCLUDE_DIRS} ${GLFW_INCLUDE_DIR})
+
+find_library(GLFW_LIBRARY NAMES 
+				glfw3
+			HINTS
+				${${TARGET}_DIR}/lib-vc2015
+			)
+
+
+set(GLFW_LIBRARIES ${GLFW_LIBRARIES} ${GLFW_LIBRARY})
+
+if(GLFW_INCLUDE_DIRS AND GLFW_LIBRARIES)
+	set(GLFW_FOUND 1)
+endif() 

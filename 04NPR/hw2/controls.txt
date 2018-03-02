@@ -1,0 +1,21 @@
+
+right : more ink
+left : less ink
+up : pen bigger
+down : pen smaller
+
+Z : clean
+
+C : pen color is C;
+M : pen color is M;
+Y : pen color is Y;
+
+I : longer pen
+U : wider pen
+
+W : paper is dry
+E : paper is wet
+
+A : paper type is First type
+S : paper type is Second type
+D : paper type is Third type

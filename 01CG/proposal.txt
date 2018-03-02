@@ -1,0 +1,22 @@
+#Title
+    Implementation of polygonal-light shading with linearly transformed matrix from paper,
+    "Real-Time Polygonal-Light Shading with Linearly Transformed Cosines"
+
+#Goal/motivation
+    "Real-Time Polygonal-Light Shading with Linearly Transformed Cosines" already released the concept 
+of using matrix to approximate GGX algorithm due to difficulty of intergration with spherical equations 
+and complexity scene.
+    Our mainly motivation is that this algorithm improves the performance effectively and the implementation of 
+square shape light source with roughness type varing. Thus, we want to implement several shape 
+polygonal-light shading with linearly transformed matrix. Further, we wish to modify the matrix with more
+type such as anisotropy and anisotropy.
+
+#Related work/background
+    at least understanding BRDF, GGX, Ray Tracing and few math tools, Jacobin, Linear algebra and so on.
+
+#Proposed method
+    We need to use matrix operations to approximate the GGX by adjusting parameter of diagonals and make this 
+into render pipeline in process or shader. Hence we will use several libraries to achieve this.
+
+#Expected results (things that will and might work)
+   Demonstrating polygonal-light with multi-shape in a scene.

@@ -1,0 +1,11 @@
+
+
+set(TARGET Vulkan)
+
+find_package(${TARGET})
+
+message("${TARGET} is ${${TARGET}_FOUND}")
+if(${TARGET}_FOUND)
+	set(PROJ_INCLUDE_DIRS ${PROJ_INCLUDE_DIRS} ${${TARGET}_INCLUDE_DIRS})
+	set(PROJ_LIBRARIES ${PROJ_LIBRARIES} ${${TARGET}_LIBRARIES})
+endif()

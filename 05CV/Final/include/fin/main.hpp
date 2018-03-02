@@ -1,0 +1,11 @@
+#ifndef FIN_MAIN_HPP
+#define FIN_MAIN_HPP
+
+#ifdef _MSC_VER
+#ifndef _CRT_SECURE_NO_WARNINGS
+#define _CRT_SECURE_NO_WARNINGS
+#endif //!_CRT_SECURE_NO_WARNINGS
+#endif //_MSC_VER
+
+
+#endif //!FINAL_MAIN_HPP
