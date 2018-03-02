@@ -6,11 +6,7 @@
 簡述：碩論為改良一篇real-time ray tracing的演算法  
   
 ## linear cosine transform  
-<<<<<<< HEAD
 ![Alt text](https://github.com/mingweiniu/ComputerGraphics/blob/master/results/LTC.png)  
-=======
-圖片：https://github.com/mingweiniu/ComputerGraphics/blob/master/results/LTC.png
->>>>>>> de3a669e44fa924586c1b82e629ba106c508388b
 程式碼：https://github.com/mingweiniu/ComputerGraphics/tree/master/01CG/final  
 工具：MSVC++, GLSL/ glew, glut  
 簡述：實作有部分source的paper，此paper為使用matrix運算去近似GGX，實作對象為Real-Time Polygonal-Light Shading with Linearly Transformed Cosines https://eheitzresearch.wordpress.com/415-2/  
@@ -63,8 +59,4 @@ https://github.com/mingweiniu/ComputerGraphics/tree/master/05CV/hw1
 SIFT  
 https://github.com/mingweiniu/ComputerGraphics/tree/master/05CV/hw2  
 3D resonstruction from different viewport  
-<<<<<<< HEAD
 https://github.com/mingweiniu/ComputerGraphics/tree/master/05CV/hw3  
-=======
-https://github.com/mingweiniu/ComputerGraphics/tree/master/05CV/hw3    
->>>>>>> de3a669e44fa924586c1b82e629ba106c508388b
