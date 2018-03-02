@@ -49,7 +49,7 @@
 簡述：實作貝茲曲線  
   
 ## non-rectangular clip  
-![Alt text](https://github.com/mingweiniu/ComputerGraphics/blob/master/results/non-rectangular_clipping.png)
+![Alt text](https://github.com/mingweiniu/ComputerGraphics/blob/master/results/non-rectangular_clipping.png)  
 程式碼：https://github.com/mingweiniu/ComputerGraphics/blob/master/00/nonrectangular_clip.py  
 工具：python3/ numpy  
 簡述：實作clipping  
