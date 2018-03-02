@@ -13,7 +13,7 @@
 簡述：實作有部分source的paper，此paper為使用matrix運算去近似GGX，實作對象為Real-Time Polygonal-Light Shading with Linearly Transformed Cosines https://eheitzresearch.wordpress.com/415-2/  
   
 ## Flat Gouraud Phong  
-![Alt text](https://github.com/mingweiniu/ComputerGraphics/blob/master/results/Flat%20Gouraud%20Phong.jpg)  
+![Alt text](https://github.com/mingweiniu/ComputerGraphics/blob/master/results/Flat%20Gouraud%20Phong.png)  
 程式碼：https://github.com/mingweiniu/ComputerGraphics/tree/master/02RTR/shadingModels  
 工具：MSVC++, GLSL/ glew, glfw   
 簡述：實作light shading model與parse obj格式  
