@@ -1,13 +1,13 @@
 # ComputerGraphics  
   
 ## interactive ray tracing  
-![Alt text](https://github.com/mingweiniu/ComputerGraphics/blob/master/results/interactive%20ray%20tracing.png =200*100)  
+![Alt text](https://github.com/mingweiniu/ComputerGraphics/blob/master/results/interactive%20ray%20tracing.png)  
 程式碼：(不公開)  
 工具: CMake for C++, GLSL/ Boost, glew, glfw, glm, OpenCV, Tinyobjloader  
 簡述：此圖為paper的執行結果截圖，本人碩論為加速此篇real-time ray tracing的演算法  
   
 ## linear cosine transform  
-![Alt text](https://github.com/mingweiniu/ComputerGraphics/blob/master/results/LTC.png | height=100)  
+![Alt text](https://github.com/mingweiniu/ComputerGraphics/blob/master/results/LTC.png)  
 程式碼：https://github.com/mingweiniu/ComputerGraphics/tree/master/01CG/final  
 工具：MSVC++, GLSL/ glew, glut  
 簡述：實作有部分source的paper，此paper為使用matrix運算去近似GGX，實作對象為Real-Time Polygonal-Light Shading with Linearly Transformed Cosines https://eheitzresearch.wordpress.com/415-2/  
