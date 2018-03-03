@@ -1,6 +1,6 @@
 # ComputerGraphics  
   
-## interactive ray tracing  
+## interactive ray tracing(image is not made by me)  
 ![Alt text](https://github.com/mingweiniu/ComputerGraphics/blob/master/results/interactive%20ray%20tracing.png)  
 程式碼：(不公開)  
 工具: CMake for C++, GLSL/ Boost, glew, glfw, glm, OpenCV, Tinyobjloader  
