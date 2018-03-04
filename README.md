@@ -1,12 +1,12 @@
 # ComputerGraphics  
   
-## interactive ray tracing(image is not made by me)  
+## Interactive Ray Tracing(image is not made by me)  
 ![Alt text](https://github.com/mingweiniu/ComputerGraphics/blob/master/results/interactive%20ray%20tracing.png)  
 程式碼：(不公開)  
 工具: CMake for C++, GLSL/ Boost, glew, glfw, glm, OpenCV, Tinyobjloader  
 簡述：The image is a sreenshots from a binary of the improving target in my master thesis.  
 
-## linear cosine transform  
+## Linear Cosine Transform  
 ![Alt text](https://github.com/mingweiniu/ComputerGraphics/blob/master/results/LTC.png)  
 程式碼：https://github.com/mingweiniu/ComputerGraphics/tree/master/01CG/final  
 工具：MSVC++, GLSL/ glew, glut  
@@ -18,7 +18,7 @@
 工具：MSVC++, GLSL/ glew, glfw   
 簡述：Parsing the obj format and implementing three light shading model.  
   
-## texturing  
+## Texturing  
 ![Alt text](https://github.com/mingweiniu/ComputerGraphics/blob/master/results/texturing.png)  
 程式碼：https://github.com/mingweiniu/ComputerGraphics/tree/master/01CG/hw3  
 工具：MSVC++, GLSL/ glut, glew, GLModel  
@@ -30,25 +30,25 @@
 工具：MSVC++/ glut, glew  
 簡述：Mirror effective is implemented with Stencil buffer.  
 
-## brush model  
+## Brush Model  
 ![Alt text](https://github.com/mingweiniu/ComputerGraphics/blob/master/results/brush%20model.png)  
 程式碼：https://github.com/mingweiniu/ComputerGraphics/tree/master/04NPR/hw1  
 工具：CMake for Qt5 and C++, GLSL  
 簡述：Implementing a brush model within adjustable size and shape with Qt5.  
 
-## ink diffusion  
+## Ink Diffusion  
 ![Alt text](https://github.com/mingweiniu/ComputerGraphics/blob/master/results/ink%20diffusion.png)  
 程式碼：https://github.com/mingweiniu/ComputerGraphics/tree/master/04NPR/hw2  
 工具：CMake for Qt5 and C++, GLSL  
 簡述：Extending the brush model, the canvas will absorb and diffusion the ink.  
   
-## Bézier curve  
+## Bézier Curve  
 ![Alt text](https://github.com/mingweiniu/ComputerGraphics/blob/master/results/B%C3%A9zier%20curve.png)  
 程式碼：https://github.com/mingweiniu/ComputerGraphics/blob/master/00/bezier_curve.cpp  
 工具：g++/ glew, glfw  
 簡述：Implementing the Bézier curve  
   
-## non-rectangular clip  
+## Non-rectangular Clip  
 ![Alt text](https://github.com/mingweiniu/ComputerGraphics/blob/master/results/non-rectangular_clipping.png)  
 程式碼：https://github.com/mingweiniu/ComputerGraphics/blob/master/00/nonrectangular_clip.py  
 工具：python3/ numpy  
