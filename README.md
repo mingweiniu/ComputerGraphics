@@ -24,7 +24,7 @@
 工具：MSVC++, GLSL/ glut, glew, GLModel  
 簡述：Texturing the model with image data parsed by GLModel.  
   
-## Stencil buffer  
+## Stencil Buffer  
 ![Alt text](https://github.com/mingweiniu/ComputerGraphics/blob/master/results/Stencil%20buffer.png)  
 程式碼：https://github.com/mingweiniu/ComputerGraphics/tree/master/01CG/hw2  
 工具：MSVC++/ glut, glew  
