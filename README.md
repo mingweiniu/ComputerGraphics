@@ -4,7 +4,7 @@
 ![Alt text](https://github.com/mingweiniu/ComputerGraphics/blob/master/results/interactive%20ray%20tracing.png)  
 程式碼：(不公開)  
 工具: CMake for C++, GLSL/ Boost, glew, glfw, glm, OpenCV, Tinyobjloader  
-簡述：The image is a sreenshots from a binary of the improving target in my master thesis.  
+簡述：The image is a sreenshots from a binary of the improved target in my master thesis.  
 
 ## Linear Cosine Transform  
 ![Alt text](https://github.com/mingweiniu/ComputerGraphics/blob/master/results/LTC.png)  
