@@ -51,7 +51,7 @@
 ## Non-rectangular Clip  
 ![Alt text](https://github.com/mingweiniu/ComputerGraphics/blob/master/results/non-rectangular_clipping.png)  
 程式碼：https://github.com/mingweiniu/ComputerGraphics/blob/master/00/nonrectangular_clip.py  
-工具：python3/ numpy  
+工具：python3/ numpy, PyOpenGL  
 簡述：Implementing the clipping algorithm with Python3.  
   
 ## ComputerVision  
