@@ -4,7 +4,7 @@
 ![Alt text](https://github.com/mingweiniu/ComputerGraphics/blob/master/results/interactive%20ray%20tracing.png)  
 程式碼：(不公開)  
 工具: CMake for C++, GLSL/ Boost, glew, glfw, glm, OpenCV, Tinyobjloader  
-簡述：The image is a sreenshots from a binary of the improved target in my master thesis.  
+碩論: [An Efficient Data Structure for Clustered Deferred Ray Tracing](https://hdl.handle.net/11296/fr72pd)
 
 ## Linear Cosine Transform  
 ![Alt text](https://github.com/mingweiniu/ComputerGraphics/blob/master/results/LTC.png)  
